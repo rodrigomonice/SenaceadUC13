@@ -88,7 +88,7 @@ export default function App() {
 
 // Estilização
 const styles = StyleSheet.create({
-  container: {
+  container {
     flex: 1,
   },
   results: {
@@ -125,4 +125,4 @@ const styles = StyleSheet.create({
     color: "#7c7c7c",
     fontSize: 20,
   } 
-});
+})
